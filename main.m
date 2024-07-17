@@ -4,6 +4,7 @@
 #import <UIKit/UIKit.h>
 #import <MobileCoreServices/UTCoreTypes.h>
 
+
 @interface UIDevice (PrivateBlackJacket)
 /**
  @brief Get specific device information from MobileGestalt
